@@ -5,3 +5,5 @@ application up and running.
 
 Aplicativo de chat baseado no slack.
 
+# Tecnologias usadas sinatra &
+
